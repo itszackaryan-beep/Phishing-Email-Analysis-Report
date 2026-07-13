@@ -63,15 +63,13 @@ Phishing-Email-Analysis/
 │   └── Sample-04/
 │
 ├── reports/
-│   ├── Detection-Rules.md
+│   ├── 
 │   ├── Incident-Response.md
 │   └── MITRE-Mapping.md
 │
 ├── sample-data/
 │
 ├── README.md
-├── LICENSE
-└── .gitignore
 ```
 
 ---
