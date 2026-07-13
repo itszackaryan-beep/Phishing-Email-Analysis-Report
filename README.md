@@ -56,20 +56,23 @@ Phishing-Email-Analysis/
 ├── docs/
 │   └── Phishing_Email_Analysis_Report.pdf
 │
-├── images/
-│   ├── Sample-01/
-│   ├── Sample-02/
-│   ├── Sample-03/
-│   └── Sample-04/
+├── email/
+│   ├── Sample-1.eml/
+│   ├── Sample-10.eml/
+│   ├── Sample-100.em/
+│   └── Sample-1000.em/
 │
-├── reports/
-│   ├── 
-│   ├── Incident-Response.md
-│   └── MITRE-Mapping.md
-│
-├── sample-data/
-│
+├── img/
+|   ├── img-OO8.jpg
+│   ├── img-009.jpg
+│   ├── img-019.Jpg
+│   └── img-034.jpg
+|   └── img-035.jpg
+│── Incident-Response.md
+├──  MITRE-Mapping.md
+├── project_Report.md/
 ├── README.md
+├── References.md
 ```
 
 ---
