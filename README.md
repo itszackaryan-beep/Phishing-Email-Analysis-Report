@@ -68,6 +68,7 @@ Phishing-Email-Analysis/
 │   ├── img-019.Jpg
 │   └── img-034.jpg
 |   └── img-035.jpg
+├── Detection-Rules.md
 │── Incident-Response.md
 ├──  MITRE-Mapping.md
 ├── project_Report.md/
