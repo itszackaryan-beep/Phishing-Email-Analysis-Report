@@ -12,7 +12,7 @@
 ## Tools
 - [MX Toolbox — Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
 - [Google Admin Toolbox — Messageheader](https://toolbox.googleapps.com/apps/messageheader/)
-- [EML Analyzer](https://eml-analyzer.herokuapp.com/) / [GitHub Project](https://github.com/ninoseki/eml_analyzer)
+- [EML Analyzer](https://eml-analyzer.herokuapp.com/) 
 - [VirusTotal](https://www.virustotal.com)
 - [Cisco Talos Intelligence](https://talosintelligence.com)
 - [WHOIS Lookup](https://www.whois.com)
