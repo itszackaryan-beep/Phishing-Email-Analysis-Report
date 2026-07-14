@@ -1,7 +1,5 @@
 # 📚 References
 
-## Sample Source
-- Phishing sample repository: [rf-peixoto/phishing_pot (GitHub)](https://github.com/rf-peixoto/phishing_pot)
 
 ## Frameworks
 - [MITRE ATT&CK Enterprise Matrix](https://attack.mitre.org/matrices/enterprise/)
